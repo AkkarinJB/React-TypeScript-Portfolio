@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Portfolio Website
 ---
 ## **Frontend** 
@@ -9,7 +8,5 @@
 - ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) **Vite** build this project
 =======
 
-# React + TypeScript + Vite
->>>>>>> d6b8a70a092d7db45b55c25b87400b3ac0717528
 
 
