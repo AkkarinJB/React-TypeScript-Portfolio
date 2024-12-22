@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
           <div className="text-center">
             <h3 className="text-white text-2xl font-bold">Aekarin</h3>
             <p className="mt-4 text-white">
-              Showcase your work and tell your story with a beautiful portfolio.
+              Project is Use Vite & React TypeScript 
             </p>
           </div>
 
