@@ -9,17 +9,19 @@ const About: React.FC = () => {
           About <span className="text-yellow-400">Me</span>
         </h1>
       </div>
+      <div className='flex items-center justify-center'>
+          <img className='rounded-full w-32 h-32 object-cover cneter' src="/src/assets/profile.jpeg" alt="Profile" />
+          </div>
 
-      {/*Content*/}
       <div className="max-w-6xl mx-auto px-6 py-10">
         {/*Skills*/}
         <div className="bg-white bg-opacity-10 p-8 rounded-lg shadow-md mb-10">
           <h2 className="text-2xl font-semibold text-yellow-400 text-center">My Skills</h2>
           <ul className="mt-6 text-center space-y-2">
-            <li className="text-lg">⚡ React & TypeScript</li>
-            <li className="text-lg">⚡ Node.js & Express</li>
-            <li className="text-lg">⚡ CSS & TailwindCSS</li>
-            <li className="text-lg">⚡ Database Management (MySQL, MongoDB)</li>
+            <li className="text-lg">React & TypeScript</li>
+            <li className="text-lg">Node.js & Express</li>
+            <li className="text-lg">CSS & TailwindCSS</li>
+            <li className="text-lg">Database Management (MySQL,SQL Lite)</li>
           </ul>
         </div>
 
@@ -27,10 +29,10 @@ const About: React.FC = () => {
         <div className="bg-white bg-opacity-10 p-8 rounded-lg shadow-md">
           <h2 className="text-2xl font-semibold text-yellow-400 text-center">Hobbies</h2>
           <ul className="mt-6 text-center space-y-2">
-            <li className="text-lg">🌟 Coding & Problem Solving</li>
-            <li className="text-lg">🌟 Reading Tech Blogs</li>
-            <li className="text-lg">🌟 Playing Video Games</li>
-            <li className="text-lg">🌟 Take a Photo</li>
+            <li className="text-lg">Coding & Problem Solving</li>
+            <li className="text-lg">Reading Tech Blogs</li>
+            <li className="text-lg">Playing Video Games</li>
+            <li className="text-lg">Take a Photo</li>
           </ul>
         </div>
       </div>
