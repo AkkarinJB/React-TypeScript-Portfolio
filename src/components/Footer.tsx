@@ -46,7 +46,7 @@ const Footer: React.FC = () => {
             <h4 className="text-lg font-semibold text-white mb-4">Follow Me</h4>
             <div className="flex justify-center space-x-4">
               <a
-                href="https://facebook.com"
+                href="https://www.facebook.com/no.xek.ri.nthr/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white"
@@ -54,7 +54,7 @@ const Footer: React.FC = () => {
                 <i className="fab fa-facebook-f"></i>
               </a>
               <a
-                href="https://twitter.com"
+                href="https://x.com/aekarin9959"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white"
@@ -62,7 +62,7 @@ const Footer: React.FC = () => {
                 <i className="fab fa-twitter"></i>
               </a>
               <a
-                href="https://linkedin.com"
+                href="linkedin.com/in/aekarin-jujaibun-95b242343"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white"
@@ -70,7 +70,7 @@ const Footer: React.FC = () => {
                 <i className="fab fa-linkedin-in"></i>
               </a>
               <a
-                href="https://github.com"
+                href="https://github.com/AkkarinJB"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white"
