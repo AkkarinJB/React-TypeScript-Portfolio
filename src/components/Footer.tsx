@@ -62,7 +62,7 @@ const Footer: React.FC = () => {
                 <i className="fab fa-twitter"></i>
               </a>
               <a
-                href="linkedin.com/in/aekarin-jujaibun-95b242343"
+                href="https://www.linkedin.com/in/aekarin-jujaibun-95b242343/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white"
