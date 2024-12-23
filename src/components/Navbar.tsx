@@ -14,7 +14,7 @@ const Navbar: React.FC = () => {
           {/* Logo */}
           <div className="flex items-center space-x-2">
             <Link to="/" className="text-white text-2xl font-bold flex items-center space-x-2">
-              <img src="/src/assets/akkarin-logo32.png" alt="Logo" className="h-8 w-8" />
+              <img src="/assets/akkarin-logo32.png" alt="Logo" className="h-8 w-8" />
               <span>Aekarin</span>
             </Link>
           </div>

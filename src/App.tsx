@@ -29,7 +29,7 @@ const LoadingProgress: React.FC = () => {
   return (
     <div className="centered-loading">
       <div className="cat-static">
-        <img className="w-24 h-24" src="./src/assets/cat.gif" alt="cat-run" />
+        <img className="w-24 h-24" src="/assets/cat.gif" alt="cat-run" />
       </div>
       <div className="progress-container">
         <div className="progress-bar" style={{ width: `${progress}%` }}></div>
