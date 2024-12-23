@@ -1,3 +1,37 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.centered-loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    position: relative;
+    
+    background: linear-gradient(135deg, #000, #000); 
+    color: white; 
+  }
+  
+  
+  
+  .progress-container {
+    width: 80%; 
+    height: 10px; 
+    background-color: #e0e0e0; 
+    border-radius: 5px;
+    overflow: hidden;
+    margin-bottom: 20px;
+  }
+  
+  .progress-bar {
+    height: 100%;
+    width: 0;
+    background-color: #3498db; 
+    transition: width 0.4s ease-in-out; 
+  }
+  
+  p {
+    margin-top: 10px;
+    font-size: 1.2rem;
+  }
