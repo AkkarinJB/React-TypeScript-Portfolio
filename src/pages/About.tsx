@@ -10,7 +10,7 @@ const About: React.FC = () => {
         </h1>
       </div>
       <div className='flex items-center justify-center'>
-          <img className='rounded-full w-32 h-32 object-cover cneter' src="/src/assets/profile.jpeg" alt="Profile" />
+          <img className='rounded-full w-32 h-32 object-cover cneter' src="./src/assets/profile.jpeg" alt="Profile" />
           </div>
 
       <div className="max-w-6xl mx-auto px-6 py-10">
