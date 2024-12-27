@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
           <div className="text-center">
             <h3 className="text-white text-2xl font-bold">Aekarin</h3>
             <p className="mt-4 text-white">
-              Project is Use Vite & React TypeScript 
+              คุณก็เป็นใด้นะโปรเเกรมมั่ว 
             </p>
           </div>
 
