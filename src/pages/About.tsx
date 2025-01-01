@@ -9,8 +9,11 @@ const About: React.FC = () => {
           About <span className="text-yellow-400">Me</span>
         </h1>
       </div>
-      <div className='flex items-center justify-center'>
+      <div className='flex flex-col items-center justify-center mt-6'>
           <img className='rounded-full w-32 h-32 object-cover cneter' src="/assets/profile.jpeg" alt="Profile" />
+          <button className='mt-4 px-6 py-2 bg-yellow-400 text-black rounded-lg font-semibold hover:bg-yellow-500 transition-all'
+          onClick={() => window.open('/src/assets/Resume.pdf','_blank')}>View Resume
+          </button>
           </div>
 
       <div className="max-w-6xl mx-auto px-6 py-10">
