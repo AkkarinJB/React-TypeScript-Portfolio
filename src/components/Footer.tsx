@@ -9,8 +9,7 @@ const Footer: React.FC = () => {
           {/* Logo and Description */}
           <div className="text-center">
             <h3 className="text-white text-2xl font-bold">Aekarin</h3>
-            <p className="mt-4 text-white">
-              คุณก็เป็นใด้นะโปรเเกรมมั่ว 
+            <p className="mt-4 text-white"> 
             </p>
           </div>
 

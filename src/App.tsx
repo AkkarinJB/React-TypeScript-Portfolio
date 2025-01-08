@@ -5,7 +5,7 @@ import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 
 const Home = React.lazy(() => import('./pages/Home'));
-const About = React.lazy(() => import('./pages/About'));
+const About = React.lazy(() => import('./pages/Home'));
 const Project = React.lazy(() => import('./pages/Project'));
 const Contact = React.lazy(() => import('./pages/Contact'));
 
