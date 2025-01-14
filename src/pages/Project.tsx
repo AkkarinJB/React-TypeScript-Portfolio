@@ -3,24 +3,10 @@ import React from 'react';
 const project = [
   {
     name: "Personal Portfolio",
-    description: "A modern portfolio showcasing my skills and projects using React and TailwindCSS.",
-    link: "https://github.com/yourusername/portfolio",
+    description: "Portfolio Website Using React Vite TypeScript Tailwindcss",
+    link: "https://github.com/AkkarinJB/React-TypeScript-Portfolio.git",
   },
-  {
-    name: "E-commerce Website",
-    description: "A full-stack e-commerce platform built with React, Node.js, and MongoDB.",
-    link: "https://github.com/yourusername/ecommerce",
-  },
-  {
-    name: "Chat Application",
-    description: "A real-time chat application using Socket.io and Node.js.",
-    link: "https://github.com/yourusername/chat-app",
-  },
-  {
-    name: "Weather App",
-    description: "A weather forecasting app using OpenWeatherMap API.",
-    link: "https://github.com/yourusername/weather-app",
-  },
+  
 ];
 
 const Project: React.FC = () => {
