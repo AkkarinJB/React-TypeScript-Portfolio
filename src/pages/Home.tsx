@@ -24,7 +24,7 @@ const Home: React.FC = () => {
                     Welcome <span className="text-yellow-400">I'm Aekarin</span>
                 </h1>
                 <p className="mt-4 text-lg sm:text-xl">
-                    Frontend Developer 
+                    Web Developer 
                 </p>
                 <button
                     onClick={() => navigate('/about')}
